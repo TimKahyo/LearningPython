@@ -1,14 +1,7 @@
-import sys
-import math
-import random
-import threading
-import time
-from functools import reduce
-
 age = 21
 
 # conditionals
-if age > 21:
+if age >= 21:
     print("You can drink")
 elif age < 21:
     print("You can't drink")

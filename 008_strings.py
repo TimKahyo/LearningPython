@@ -1,10 +1,3 @@
-import sys
-import math
-import random
-import threading
-import time
-from functools import reduce
-
 # raw string
 print(r"I'll be ignored \n")
 print("Hello " + "You")  # concatenation
