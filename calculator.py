@@ -112,7 +112,7 @@ class Calculator:
         root.title("Calculator")
  
         # Defines the width and height of the window
-        root.geometry("430x220")
+        root.geometry("598x250")
  
         # Block resizing of Window
         root.resizable(width=False, height=False)
