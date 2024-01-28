@@ -10,3 +10,5 @@ squareAreaOfARectangle = lambda length, width: length * width
     finally:
         print("exiting..")
 '''
+
+globalVariable = "test"
