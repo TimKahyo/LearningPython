@@ -1,6 +1,6 @@
 squareAreaOfARectangle = lambda length, width: length * width
 
-'''
+"""
     try:
         print(squareAreaOfARectangle(2,4))
     except Exception as err:
@@ -9,6 +9,6 @@ squareAreaOfARectangle = lambda length, width: length * width
         print("code executed sucessfully")
     finally:
         print("exiting..")
-'''
+"""
 
 globalVariable = "test"
