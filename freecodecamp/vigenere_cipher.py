@@ -1,3 +1,4 @@
+# learning string manupulation by building a cipher
 text = "mrttaqrhknsw ih puggrur"
 custom_key = "python"
 
