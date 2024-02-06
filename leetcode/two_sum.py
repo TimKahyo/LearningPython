@@ -1,11 +1,8 @@
 def twoSum(nums: list[int], target: int) -> list[int]:
-    lst = []
     for i in range(len(nums)):
         for j in range(1 + i, len(nums)):
             if nums[i] + nums[j] == target:
-                lst.append(i)
-                lst.append(j)
-    return lst
+                return [i, j]
 
 
 def main():
