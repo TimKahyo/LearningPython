@@ -1,0 +1,4 @@
+error: something went wrong
+success: operation completed
+warning: this is a warning
+error: another error occurred
